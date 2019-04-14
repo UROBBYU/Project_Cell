@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\bin\Release\ProjectCell.exe.config
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\bin\Release\ProjectCell.exe
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\bin\Release\ProjectCell.pdb
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.Form1.resources
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.Properties.Resources.resources
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.csproj.GenerateResource.cache
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.exe
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.pdb
+D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.csprojAssemblyReference.cache
