@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "задача-Project_Cell",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "задача-ProjectCell",
+      "appliesTo": "sources/ProjectCell.csproj",
+      "type": "msbuild"
+    },
+    {
+      "taskName": "задача-releases",
+      "appliesTo": "releases/",
+      "type": "launch"
+    },
+    {
+      "taskName": "задача-Form1",
+      "appliesTo": "sources/Form1.cs",
+      "type": "launch"
+    }
+  ]
+}

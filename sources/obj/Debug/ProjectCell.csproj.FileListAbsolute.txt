@@ -18,3 +18,6 @@ D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Debug\ProjectCell
 D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Debug\ProjectCell.csproj.CoreCompileInputs.cache
 D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Debug\ProjectCell.exe
 D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Debug\ProjectCell.pdb
+D:\Programming\Visual Studio Projects\Project_Cell\releases\Debug\ProjectCell.exe.config
+D:\Programming\Visual Studio Projects\Project_Cell\releases\Debug\ProjectCell.exe
+D:\Programming\Visual Studio Projects\Project_Cell\releases\Debug\ProjectCell.pdb

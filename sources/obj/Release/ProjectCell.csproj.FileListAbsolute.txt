@@ -8,3 +8,13 @@ D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\Projec
 D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.exe
 D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.pdb
 D:\Programming\Visual Studio Projects\ProjectCell\ProjectCell\obj\Release\ProjectCell.csprojAssemblyReference.cache
+D:\Programming\Visual Studio Projects\Project_Cell\releases\Release\ProjectCell.exe.config
+D:\Programming\Visual Studio Projects\Project_Cell\releases\Release\ProjectCell.exe
+D:\Programming\Visual Studio Projects\Project_Cell\releases\Release\ProjectCell.pdb
+D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Release\ProjectCell.csprojAssemblyReference.cache
+D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Release\ProjectCell.Form1.resources
+D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Release\ProjectCell.Properties.Resources.resources
+D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Release\ProjectCell.csproj.GenerateResource.cache
+D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Release\ProjectCell.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Release\ProjectCell.exe
+D:\Programming\Visual Studio Projects\Project_Cell\sources\obj\Release\ProjectCell.pdb
