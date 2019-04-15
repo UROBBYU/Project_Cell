@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -128,7 +128,6 @@ namespace ProjectCell
                     MessageBox.Show("Invalid data!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     break;
             }
-            MessageBox.Show(msg);
         }
 
         private void serialErr(object sender, EventArgs e)
