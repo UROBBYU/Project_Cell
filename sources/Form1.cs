@@ -15,19 +15,19 @@ namespace ProjectCell
     {
         private string selectedPort = "COM";
         private string[] buttonTexts = {
-            "First",
-            "Second",
-            "Third",
-            "Fourth",
-            "Fifth",
-            "Sixth",
-            "Seventh",
-            "Eighth",
-            "Nineth",
-            "Tenth",
-            "Eleventh",
-            "Twelveth",
-            "Thirteenth"
+            "Ядерце",
+            "Ядро",
+            "Цитозоль",
+            "Рибосома",
+            "Гладка ендоплазматична сітка",
+            "Гранулярна ендоплазматична сітка",
+            "Лізосома",
+            "Ендосома",
+            "Транспортна везикула",
+            "Апарат Гольджі",
+            "Екзосома",
+            "Центросома",
+            "Мітохондрія"
         };
 
         public string[] updatePorts()
@@ -88,7 +88,7 @@ namespace ProjectCell
         {
             if (!serialPort1.IsOpen || selectedPort == "COM")
             {
-                MessageBox.Show("Invalid serial port!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Неправильно вибраний порт!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
@@ -113,19 +113,19 @@ namespace ProjectCell
             switch (msg)
             {
                 case "connect":
-                    MessageBox.Show("Successfully connected", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Правильно під'єднано", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     break;
 
                 case "correct":
-                    MessageBox.Show("Correct answer", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Правильна відповідь", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     break;
 
                 case "wrong":
-                    MessageBox.Show("Wrong answer", "Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Неправильна відповідь", "Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     break;
 
                 default:
-                    MessageBox.Show("Invalid data!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Помилкові данні!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     break;
             }
         }
@@ -133,7 +133,7 @@ namespace ProjectCell
         private void serialErr(object sender, EventArgs e)
         {
             serialPort1.Close();
-            MessageBox.Show("Serial port error!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            MessageBox.Show("Помилка USB - порту!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void formClose(object sender, EventArgs e)

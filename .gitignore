@@ -1,4 +1,6 @@
-releases/
-!releases/Release/*.exe
-!releases/Debug/*.exe
-sources/obj/
+.*
+!.gitignore
+*.config
+*.pdb
+sources/Properties/*
+sources/obj/*
