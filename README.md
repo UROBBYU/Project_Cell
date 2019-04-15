@@ -9,4 +9,5 @@ Our cell is 3D-Printer made, so it can be easily reproduced.
 
 All our project bases on arduino plate, so anyone can download our hardware and modify it.
 
-Authors: Robert Liapota, Gregori Fasiyenko, Olha Rybak, Serhiy Rybak.
+### Authors
+**Robert Liapota**, **Gregori Fasiyenko**, **Olha Rybak**, **Serhiy Rybak**.
