@@ -1,5 +1,5 @@
 ## Project Cell 
-![](https://i.imgur.com/UhnYoeu.png)
+<img src="https://i.imgur.com/UhnYoeu.png" width="200" height="200"/>
 This repository is the main web page of Project Cell.
 
 ### Idea
