@@ -1,5 +1,5 @@
 ## Project Cell 
-<img src="https://i.imgur.com/UhnYoeu.png" width="200" height="200"/>
+<img src="https://i.imgur.com/UhnYoeu.png" width="300" height="300"/>
 This repository is the main web page of Project Cell.
 
 ### Idea
